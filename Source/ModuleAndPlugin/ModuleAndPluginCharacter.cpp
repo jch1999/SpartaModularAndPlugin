@@ -11,6 +11,7 @@
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
 #include "ModuleAndPlugin.h"
+#include "MySpartaLog/Public/TestActor.h"
 
 AModuleAndPluginCharacter::AModuleAndPluginCharacter()
 {
@@ -48,6 +49,13 @@ AModuleAndPluginCharacter::AModuleAndPluginCharacter()
 
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
+}
+
+void AModuleAndPluginCharacter::BeginPlay()
+{
+	Super::BeginPlay();
+	
+	GetWorld()->SpawnActor(ATestActor::StaticClass());
 }
 
 void AModuleAndPluginCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
