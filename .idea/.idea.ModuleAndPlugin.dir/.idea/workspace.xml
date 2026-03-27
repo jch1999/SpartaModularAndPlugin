@@ -8,16 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e14d0ddd-49ff-4102-bf77-069e9b13c661" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ModuleAndPlugin/ModuleAndPlugin.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ModuleAndPlugin/ModuleAndPlugin.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ModuleAndPlugin/ModuleAndPluginCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ModuleAndPlugin/ModuleAndPluginCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ModuleAndPlugin/ModuleAndPluginCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ModuleAndPlugin/ModuleAndPluginCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.Build.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/Private/TestActor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/Public/TestActor.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +139,8 @@
       <updated>1774526350423</updated>
       <workItem from="1774526434374" duration="1033000" />
       <workItem from="1774529121271" duration="2662000" />
+      <workItem from="1774575138072" duration="564000" />
+      <workItem from="1774581147597" duration="48000" />
     </task>
     <servers />
   </component>

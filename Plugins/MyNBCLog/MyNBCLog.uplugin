@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "My NBC Log Plugin",
+  "Description": "과제 10 교안용 로그 플러그인",
+  "Category": "Sparta",
+  "CreatedBy": "Eunil",
+  "CanContainContent": true,
+  "Modules": [
+    {
+      "Name": "MySpartaLog",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
