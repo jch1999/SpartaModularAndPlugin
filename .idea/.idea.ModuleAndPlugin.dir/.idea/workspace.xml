@@ -7,14 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e14d0ddd-49ff-4102-bf77-069e9b13c661" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModuleAndPlugin.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.Build.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/MySpartaLog.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/Private/TestActor.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MySpartaLog/Public/TestActor.h" beforeDir="false" />
-    </list>
+    <list default="true" id="e14d0ddd-49ff-4102-bf77-069e9b13c661" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +18,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -45,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;Uproject.ModuleAndPlugin.executor&quot;: &quot;Run&quot;,
+    &quot;Uproject.ModuleAndPlugin.executor&quot;: &quot;Debug&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -141,6 +131,8 @@
       <workItem from="1774529121271" duration="2662000" />
       <workItem from="1774575138072" duration="564000" />
       <workItem from="1774581147597" duration="48000" />
+      <workItem from="1774581256839" duration="3953000" />
+      <workItem from="1774939151941" duration="2348000" />
     </task>
     <servers />
   </component>

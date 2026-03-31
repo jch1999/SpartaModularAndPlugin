@@ -12,6 +12,11 @@
       "Name": "MySpartaLog",
       "Type": "Runtime",
       "LoadingPhase": "Default"
+    },
+    {
+      "Name": "MySpartaLogEditor",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit"
     }
   ]
 }
