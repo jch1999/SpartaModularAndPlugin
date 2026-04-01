@@ -23,7 +23,9 @@ public class MySpartaLogEditor : ModuleRules
 				"MySpartaLog",
 				"EditorFramework",
 				"AppFramework",
-				"ApplicationCore", 
+				"ApplicationCore",
+				"PropertyEditor",
+				"InputCore",
 			}
 		);
 	}
